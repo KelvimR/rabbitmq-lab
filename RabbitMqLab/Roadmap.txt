@@ -1,0 +1,20 @@
+01 - Producer → Queue → Consumer      
+02 - Exchange Direct
+03 - Routing Key
+04 - Fanout Exchange
+05 - Topic Exchange
+06 - ACK / NACK
+07 - Retry
+08 - Dead Letter Queue (DLQ)
+09 - Prefetch
+10 - Múltiplos Consumers
+11 - Publisher Confirms
+12 - Idempotência
+13 - ASP.NET Core Producer
+14 - Worker Service Consumer
+15 - Dependency Injection
+16 - RabbitMQ Configuration
+17 - Docker Compose completo
+18 - Health Checks
+19 - MassTransit
+20 - Microservices

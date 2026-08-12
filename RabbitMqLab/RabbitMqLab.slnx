@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/RabbitMqLab.Consumer/RabbitMqLab.Consumer.csproj" />
+    <Project Path="src/RabbitMqLab.Contracts/RabbitMqLab.Contracts.csproj" />
+    <Project Path="src/RabbitMqLab.Producer/RabbitMqLab.Producer.csproj" />
+  </Folder>
+</Solution>

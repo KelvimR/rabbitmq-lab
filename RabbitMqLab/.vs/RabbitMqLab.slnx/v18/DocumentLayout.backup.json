@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TEMP\\rabbitmq-lab\\RabbitMqLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA4792E-D528-2B93-CEA2-0BA1822AC905}|src\\RabbitMqLab.Consumer\\RabbitMqLab.Consumer.csproj|c:\\temp\\rabbitmq-lab\\rabbitmqlab\\src\\rabbitmqlab.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA4792E-D528-2B93-CEA2-0BA1822AC905}|src\\RabbitMqLab.Consumer\\RabbitMqLab.Consumer.csproj|solutionrelative:src\\rabbitmqlab.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA2FBD9-2C5D-E4B6-047A-FB88A434D32F}|src\\RabbitMqLab.Producer\\RabbitMqLab.Producer.csproj|c:\\temp\\rabbitmq-lab\\rabbitmqlab\\src\\rabbitmqlab.producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA2FBD9-2C5D-E4B6-047A-FB88A434D32F}|src\\RabbitMqLab.Producer\\RabbitMqLab.Producer.csproj|solutionrelative:src\\rabbitmqlab.producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TEMP\\rabbitmq-lab\\RabbitMqLab\\src\\RabbitMqLab.Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "src\\RabbitMqLab.Consumer\\Program.cs",
+              "ToolTip": "C:\\TEMP\\rabbitmq-lab\\RabbitMqLab\\src\\RabbitMqLab.Consumer\\Program.cs",
+              "RelativeToolTip": "src\\RabbitMqLab.Consumer\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwCwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T18:51:09.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TEMP\\rabbitmq-lab\\RabbitMqLab\\src\\RabbitMqLab.Producer\\Program.cs",
+              "RelativeDocumentMoniker": "src\\RabbitMqLab.Producer\\Program.cs",
+              "ToolTip": "C:\\TEMP\\rabbitmq-lab\\RabbitMqLab\\src\\RabbitMqLab.Producer\\Program.cs",
+              "RelativeToolTip": "src\\RabbitMqLab.Producer\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T18:40:46.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
